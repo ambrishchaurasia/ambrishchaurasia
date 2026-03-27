@@ -42,4 +42,4 @@ A modern, minimal portfolio built with React and Motion.dev
 ---
 
 ## Connect
-<a href="https://www.linkedin.com/in/ambrishchaurasiya14">LinkedIn</a> <br> <a href="mailto:ambrishchaurasiya.work@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/ambrishchaurasiya14">LinkedIn</a> • <a href="mailto:ambrishchaurasiya.work@gmail.com">Email</a>
