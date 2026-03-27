@@ -37,7 +37,7 @@ A machine learning-based system to classify waste into categories
 
 **Portfolio Website**
 A modern, minimal portfolio built with React and animations <br>
-Link: [https://your-portfolio-link.com](https://ambrishchaurasiyaportfolio.vercel.app/)
+Link: [https://ambrishchaurasiyaportfolio.vercel.app/]
 
 ---
 
