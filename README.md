@@ -42,6 +42,4 @@ Link: [https://ambrishchaurasiyaportfolio.vercel.app/]
 ---
 
 ## Connect
-
-LinkedIn: https://www.linkedin.com/in/ambrishchaurasiya14/ <br>
-Email: ambrishchaurasiya.work@gmail.com
+<a href="https://www.linkedin.com/in/ambrishchaurasiya14">LinkedIn</a> <br> <a href="mailto:ambrishchaurasiya.work@gmail.com">Email</a>
