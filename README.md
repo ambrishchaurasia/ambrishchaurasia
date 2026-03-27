@@ -22,9 +22,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ambrishchaurasiya&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ambrishchaurasia&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrishchaurasiya&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrishchaurasia&layout=compact&theme=radical)
 
 ---
 
@@ -42,5 +42,5 @@ Built using React & Framer Motion
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: your-link  
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/ambrishchaurasiya14/
+- Email: ambrishchaurasia.work@gmail.com
