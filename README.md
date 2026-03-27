@@ -22,9 +22,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ambrishchaurasia&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ambrishchaurasia&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrishchaurasia&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ambrishchaurasia&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ambrishchaurasia&layout=compact&theme=tokyonight)
 
 ---
 
