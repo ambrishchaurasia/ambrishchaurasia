@@ -29,7 +29,7 @@ React • Node.js • Express • MongoDB • Java (OOP & DSA) • Machine Learn
 ## Featured Work
 
 **ByteNotes**
-
+A note-taking app built with React and Tailwind CSS.
 
 **Doongaboys Hostel Website**
 A responsive website for hostel management and information access
@@ -45,5 +45,5 @@ Link: [https://your-portfolio-link.com](https://ambrishchaurasiyaportfolio.verce
 
 ## Connect
 
-LinkedIn: your-link
-Email: your-email
+LinkedIn: https://www.linkedin.com/in/ambrishchaurasiya14/
+Email: ambrishchaurasiya.work@gmail.com
