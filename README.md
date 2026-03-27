@@ -21,12 +21,11 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ambrishchaurasia&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ambrishchaurasia&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ambrishchaurasia&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ambrishchaurasia&theme=tokyo-night)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambrishchaurasia&theme=tokyonight)
 
 ---
 
