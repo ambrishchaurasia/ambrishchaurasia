@@ -1,9 +1,7 @@
 # Hi, I'm Ambrish
 ![Typing](https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=4F738E&center=false&vCenter=true&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Machine+Learning+Enthusiast)
 
-Full Stack Developer focused on building practical, scalable applications.
-I work across frontend, backend, and machine learning to solve real problems.
-
+I build meaningful products that not only work well but also look good.
 ---
 
 ## About Me
