@@ -1,13 +1,12 @@
 # Hi, I'm Ambrish
 ![Typing](https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=4F738E&center=false&vCenter=true&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Machine+Learning+Enthusiast)
 
-I build meaningful products that not only work well but also look good.
+
 ---
 
 ## About Me
 
-I enjoy creating products that are simple to use but strong under the hood.
-My focus is on writing clean code, understanding systems deeply, and staying consistent with learning.
+I build meaningful products that work well and look good.
 
 Currently working with:
 
@@ -37,7 +36,7 @@ A responsive website for hostel management and information access
 A machine learning-based system to classify waste into categories
 
 **Portfolio Website**
-A modern, minimal portfolio built with React and animations
+A modern, minimal portfolio built with React and animations <br>
 Link: [https://your-portfolio-link.com](https://ambrishchaurasiyaportfolio.vercel.app/)
 
 ---
