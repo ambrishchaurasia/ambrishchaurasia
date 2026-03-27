@@ -1,47 +1,49 @@
-# Hi, I'm Ambrish 👋  
-🚀 Full Stack Developer (React | Java | MongoDB)  
-💡 I build things that people actually use  
+# Hi, I'm Ambrish
+
+Full Stack Developer focused on building practical, scalable applications.
+I work across frontend, backend, and machine learning to solve real problems.
 
 ---
 
-## 💡 About Me
-- Focused on full-stack development  
-- Learning scalable systems  
-- Consistency is my strength (coding, gym, growth mindset)
+## About Me
+
+I enjoy creating products that are simple to use but strong under the hood.
+My focus is on writing clean code, understanding systems deeply, and staying consistent with learning.
+
+Currently working with:
+
+* React for frontend development
+* Express and Node.js for backend APIs
+* MongoDB for database design
+* Java for object-oriented programming and data structures & algorithms
+* Machine Learning for intelligent systems
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+React • Node.js • Express • MongoDB • Java (OOP & DSA) • Machine Learning
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=ambrishchaurasia&theme=tokyonight)
+## Featured Work
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ambrishchaurasia&theme=tokyo-night)
+**ByteNotes**
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambrishchaurasia&theme=tokyonight)
 
----
+**Doongaboys Hostel Website**
+A responsive website for hostel management and information access
 
-## 🔥 Featured Projects
+**Waste Classification System**
+A machine learning-based system to classify waste into categories
 
-### 🧠 SapConnect  
-A college social networking platform  
-
-### 📧 Email Spam Detection  
-ML models for spam classification  
-
-### 🌐 Portfolio Website  
-Built using React & Framer Motion  
+**Portfolio Website**
+A modern, minimal portfolio built with React and animations
+Link: [https://your-portfolio-link.com](https://ambrishchaurasiyaportfolio.vercel.app/)
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/ambrishchaurasiya14/
-- Email: ambrishchaurasia.work@gmail.com
+## Connect
+
+LinkedIn: your-link
+Email: your-email
